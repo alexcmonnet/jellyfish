@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/NorthropGrumman/jellyfish)
+
 # Jellyfish
 Jellyfish is a product suite for the System Descriptor (SD) which is a Architecture-as-Code construct modeled after the
 DevOps Infrastructure-as-Code paradigm.  Jellyfish is made up of several components:
